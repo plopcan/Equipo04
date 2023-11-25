@@ -19,3 +19,4 @@ Asi se podrian tener localizadas las versiones con bugs o las estables.
 Con **.gitignore** se puede evitar subir al repositorio archivos no deseados. Si escribimos _.html_ se ignorarian todos los .html y si escribieramos _!index_ aunque se pasaran los html por alto, index se añadiria. Esto seria util para evitar añadir al repositorio archivos especiales de netbeans. 
 
 ## Ej6
+![image](https://github.com/plopcan/Equipo04/assets/127615799/44a72b3d-3ff2-49c7-9c64-056a6fb434bf)
