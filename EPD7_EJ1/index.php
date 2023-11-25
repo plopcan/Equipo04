@@ -11,6 +11,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
     <body>
         <?php
         echo "A la buena tarde";
+        echo "Ejercicio 6";
         ?>
     </body>
 </html>
